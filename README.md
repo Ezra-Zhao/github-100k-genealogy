@@ -267,3 +267,5 @@
    A collection of (mostly) technical things every software developer should know about
 
 导读进度：11 批全部完成（第 1–132 名，132 条导读齐），并已通过上仓前交叉审核（硬数据与底账全量比对零差错，2026-10-20）。
+
+扩展部分进度：27 批全部完成（扩展清单第 1–321 名，321 条导读齐），并已通过上仓前交叉审核（硬数据与底账 repos-learning-extended.json 全量比对零差错、内容要点抽核无编造，2026-10-20）。
